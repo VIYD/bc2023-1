@@ -1,1 +1,1 @@
-console.log("Hello, Poliakov Oleksandr!")
+console.log("Hello, VIYD!")
